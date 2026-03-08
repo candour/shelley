@@ -142,6 +142,10 @@ body {
     gap: var(--gap);
 }
 
+.about-left {
+    max-width: 600px;
+}
+
 .about-right img {
     max-width: 600px;
     height: auto;
